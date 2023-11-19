@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/codsoft./static/css/main.c7537034.css",
-    "main.js": "/codsoft./static/js/main.11557813.js",
+    "main.css": "/codsoft./static/css/main.139b3bd7.css",
+    "main.js": "/codsoft./static/js/main.10519a16.js",
     "static/media/startup.png": "/codsoft./static/media/startup.784ec81a88241bb83b98.png",
     "static/media/ttt.jpg": "/codsoft./static/media/ttt.71918c7f8cc69f681921.jpg",
     "static/media/ecommerce.png": "/codsoft./static/media/ecommerce.dd22b4f4ebd6348cd6cf.png",
@@ -9,11 +9,11 @@
     "static/media/photo.jpg": "/codsoft./static/media/photo.2f087bd8741ca4aa6caf.jpg",
     "static/media/arrowup.png": "/codsoft./static/media/arrowup.cb247b6d92fd342d1054.png",
     "index.html": "/codsoft./index.html",
-    "main.c7537034.css.map": "/codsoft./static/css/main.c7537034.css.map",
-    "main.11557813.js.map": "/codsoft./static/js/main.11557813.js.map"
+    "main.139b3bd7.css.map": "/codsoft./static/css/main.139b3bd7.css.map",
+    "main.10519a16.js.map": "/codsoft./static/js/main.10519a16.js.map"
   },
   "entrypoints": [
-    "static/css/main.c7537034.css",
-    "static/js/main.11557813.js"
+    "static/css/main.139b3bd7.css",
+    "static/js/main.10519a16.js"
   ]
 }
